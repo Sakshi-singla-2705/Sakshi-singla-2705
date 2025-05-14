@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **sakshisingla8709@gmail.com**
+- LinkedIn - **[My Profile](https://www.linkedin.com/in/sakshi-singla2705/)**
+
+***
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
