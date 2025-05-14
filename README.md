@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
-- How to reach me **sakshisingla8709@gmail.com**
-- LinkedIn - **[My Profile](https://www.linkedin.com/in/sakshi-singla2705/)**
+- How to reach me-
+**sakshisingla8709@gmail.com**
+**[LinkedIn](https://www.linkedin.com/in/sakshi-singla2705/)**
 
 ***
 
